@@ -1,0 +1,4 @@
+The Program will prompt the user with the number of equations to be solved. 
+There will then be an option to enter coefficients by command line or by file.
+The equations will first be solved using partial pivoting.
+For Gauss Jacobi and Gauss Siedel, you will need to specify the desired percent error in decimal form. 
